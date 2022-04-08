@@ -1,0 +1,17 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\CSharp-Collections-Practice.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\CSharp-Collections-Practice.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\CSharp-Collections-Practice.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\CSharp-Collections-Practice.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\CSharp-Collections-Practice.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\CSharp-Collections-Practice.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.csproj.CopyComplete
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Collections-Practice\CSharp-Collections-Practice\obj\Debug\netcoreapp3.1\CSharp-Collections-Practice.genruntimeconfig.cache
